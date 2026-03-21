@@ -93,3 +93,8 @@ I am a Computer Science student from Kishanganj, Bihar, passionate about softwar
 </a>
 
 </p>
+
+
+<img src="https://raw.githubusercontent.com/nagmani-raj/nagmani-raj/output/snake.svg" alt="Snake animation" />
+
+###
