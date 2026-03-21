@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nagmani Raj</h1>
 
-<img align="right" alt="coding" width="300" src="YOUR_IMAGE_LINK"/>
+<img align="right" alt="coding" width="300" src="dev.jpg"/>
 
 <h3 align="center">
 I am a Computer Science student from Kishanganj, Bihar, passionate about software development and problem solving. I have experience in web development using MERN stack and networking concepts like packet analysis with Wireshark. I enjoy building real-world projects, solving DSA problems, and continuously improving my technical and analytical skills for future opportunities
