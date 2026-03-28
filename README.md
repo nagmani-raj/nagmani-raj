@@ -101,8 +101,8 @@ I am a Computer Science student from Kishanganj, Bihar, passionate about softwar
 
 <p>
   <img align="center" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=subrat-prakash&theme=tokyonight" 
-       alt="subrat-prakash" />
+       src="https://github-readme-streak-stats.herokuapp.com/?user=nagmani-raj&theme=tokyonight" 
+       alt="nagmani-raj" />
 </p>
 
 ###
