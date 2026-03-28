@@ -99,6 +99,28 @@ I am a Computer Science student from Kishanganj, Bihar, passionate about softwar
 
 ---
 
+<p align="center">
+  <a href="#">
+    <button style="
+      background:#FFDD00;
+      border:none;
+      padding:12px 22px;
+      font-size:18px;
+      font-weight:bold;
+      border-radius:12px;
+      cursor:pointer;
+      display:flex;
+      align-items:center;
+      gap:10px;
+      transition:0.3s;
+    "
+    onmouseover="this.style.transform='scale(1.05)'"
+    onmouseout="this.style.transform='scale(1)'">
+      ☕ Coffee With Nagmani Raj
+    </button>
+  </a>
+</p>
+
 <p>
   <img align="center" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=nagmani-raj&theme=tokyonight" 
