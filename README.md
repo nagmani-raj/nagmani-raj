@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nagmani Raj</h1>
 
-<img align="right" alt="coding" width="300" src="dev.jpg"/>
+<img align="right" alt="banner" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 <h3 align="center">
 I am a Computer Science student from Kishanganj, Bihar, passionate about software development and problem solving. I have experience in web development using MERN stack and networking concepts like packet analysis with Wireshark. I enjoy building real-world projects, solving DSA problems, and continuously improving my technical and analytical skills for future opportunities
@@ -126,5 +126,9 @@ I am a Computer Science student from Kishanganj, Bihar, passionate about softwar
        src="https://github-readme-streak-stats.herokuapp.com/?user=nagmani-raj&theme=tokyonight" 
        alt="nagmani-raj" />
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ###
