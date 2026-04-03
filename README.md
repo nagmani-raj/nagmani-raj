@@ -1,4 +1,4 @@
-@@ -1,108 +1,130 @@
+
 <h1 align="center">Hi 👋, I'm Nagmani Raj</h1>
 
 <img align="right" alt="coding" width="300" src="dev.jpg"/>
