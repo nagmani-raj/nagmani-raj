@@ -1,3 +1,4 @@
+@@ -1,108 +1,130 @@
 <h1 align="center">Hi 👋, I'm Nagmani Raj</h1>
 
 <img align="right" alt="coding" width="300" src="dev.jpg"/>
@@ -99,6 +100,27 @@ I am a Computer Science student from Kishanganj, Bihar, passionate about softwar
 
 ---
 
+<p align="center">
+  <a href="#">
+    <button style="
+      background:#FFDD00;
+      border:none;
+      padding:12px 22px;
+      font-size:18px;
+      font-weight:bold;
+      border-radius:12px;
+      cursor:pointer;
+      display:flex;
+      align-items:center;
+      gap:10px;
+      transition:0.3s;
+    "
+    onmouseover="this.style.transform='scale(1.05)'"
+    onmouseout="this.style.transform='scale(1)'">
+      ☕ Coffee With Nagmani Raj
+    </button>
+  </a>
+</p>
 
 <p>
   <img align="center" 
@@ -106,7 +128,4 @@ I am a Computer Science student from Kishanganj, Bihar, passionate about softwar
        alt="nagmani-raj" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 ###
