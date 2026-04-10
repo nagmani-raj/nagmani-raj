@@ -107,7 +107,7 @@ I am a Computer Science student from Kishanganj, Bihar, passionate about softwar
   border-radius: 12px;
 ">
 
-  <img src="dev.jpg" width="300" style="display:block; border-radius:10px;" />
+  
 
   <p style="
     color: red;
