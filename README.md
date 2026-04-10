@@ -100,20 +100,26 @@ I am a Computer Science student from Kishanganj, Bihar, passionate about softwar
 
 ---
 
-<p align="center">
-  <div style="
-    background-color: #FFDD00;
+<div style="
+  background-color: yellow;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 12px;
+">
+
+  <img src="dev.jpg" width="300" style="display:block; border-radius:10px;" />
+
+  <p style="
     color: red;
-    padding: 15px 25px;
-    font-size: 20px;
+    text-align: center;
+    font-size: 18px;
     font-weight: bold;
-    border-radius: 12px;
-    display: inline-block;
-    box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+    margin-top: 10px;
   ">
     ☕ Coffee With Nagmani Raj
-  </div>
-</p>
+  </p>
+
+</div>
 
 <p>
   <img align="center" 
